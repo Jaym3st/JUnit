@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aeb5bcbb-c855-46e1-8c1c-0250b1907a03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CajaBlanca/ControladorAcceso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CajaBlanca/ControladorAccesoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CajaNegra/CalculadoraFinanciera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CajaNegra/CalculadoraFinancieraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculadora/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculadora/CalculadoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculadoraAvanzada/CalculadoraAvanzada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculadoraAvanzada/CalculadoraAvanzadaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConversorTemperatura/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConversorTemperatura/ConversorTemperaturaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dependencias/ClienteServicioWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dependencias/ClienteServicioWebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Excepciones/Validador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Excepciones/ValidadorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeneradorReportes/GeneradorReportes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeneradorReportes/GeneradorReportesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GestorDeConexion/GestorDeConexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GestorDeConexion/GestorDeConexionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GestorDeTareas/GestorDeTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GestorDeTareas/GestorDeTareasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProcesadorTareas/ProcesadorTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProcesadorTareas/ProcesadorTareasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProcesadorTareasPesadas/ProcesadorTareasPesadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProcesadorTareasPesadas/ProcesadorTareasPesadasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PruebasAleatorias/ControladorAccesoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PruebasAleatorias/GeneradorNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PruebasComunes/EjecutarPruebas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PruebasComunes/PruebaServicioA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PruebasComunes/PruebaServicioB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PruebasComunes/PruebasComunes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SistemaOperativoUtils/SistemaOperativoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SistemaOperativoUtils/SistemaOperativoUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TareasEstructuradas/GestorDeTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TareasEstructuradas/GestorDeTareasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teg/ComponenteA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teg/ComponenteB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teg/SistemaConComponentesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teg/SistemaConComponentesTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2cRciGpo6oCB98tshhJmRF21b4H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculadoraAvanzadaTest.executor": "Run",
+    "JUnit.CalculadoraFinancieraTest.executor": "Run",
+    "JUnit.CalculadoraTest.executor": "Run",
+    "JUnit.ClasePrueba1 and 1 more.executor": "Run",
+    "JUnit.ClasePrueba1.executor": "Run",
+    "JUnit.ClasePrueba2.executor": "Run",
+    "JUnit.ClienteServicioWebTest.executor": "Run",
+    "JUnit.ControladorAccesoTest (1).executor": "Run",
+    "JUnit.ControladorAccesoTest.executor": "Run",
+    "JUnit.ConversorTemperaturaTest.executor": "Run",
+    "JUnit.EjecutarPruebas.executor": "Run",
+    "JUnit.GeneradorReportesTest.executor": "Run",
+    "JUnit.GestorDeConexionTest.executor": "Run",
+    "JUnit.GestorDeTareasTest.executor": "Run",
+    "JUnit.ProcesadorTareasPesadasTest.executor": "Run",
+    "JUnit.ProcesadorTareasTest.executor": "Run",
+    "JUnit.SistemaConComponentesTest.executor": "Run",
+    "JUnit.SistemaConComponentesTest2.executor": "Run",
+    "JUnit.SistemaOperativoUtilsTest.executor": "Run",
+    "JUnit.ValidadorTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ClienteServicioWebTest">
+    <configuration name="CalculadoraFinancieraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CajaNegra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CalculadoraFinanciera" />
+      <option name="MAIN_CLASS_NAME" value="CajaNegra.CalculadoraFinancieraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServicioWebTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dependencias.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Dependencias" />
+      <option name="MAIN_CLASS_NAME" value="Dependencias.ClienteServicioWebTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControladorAccesoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PruebasAleatorias.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PruebasAleatorias" />
+      <option name="MAIN_CLASS_NAME" value="PruebasAleatorias.ControladorAccesoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControladorAccesoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CajaBlanca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CajaBlanca" />
+      <option name="MAIN_CLASS_NAME" value="CajaBlanca.ControladorAccesoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcesadorTareasPesadasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProcesadorTareasPesadas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProcesadorTareasPesadas" />
+      <option name="MAIN_CLASS_NAME" value="ProcesadorTareasPesadas.ProcesadorTareasPesadasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteServicioWebTest" />
+        <item itemvalue="JUnit.ProcesadorTareasPesadasTest" />
+        <item itemvalue="JUnit.ControladorAccesoTest (1)" />
+        <item itemvalue="JUnit.ControladorAccesoTest" />
+        <item itemvalue="JUnit.CalculadoraFinancieraTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-be841094" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeb5bcbb-c855-46e1-8c1c-0250b1907a03" name="Changes" comment="" />
+      <created>1708077956759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708077956759</updated>
+      <workItem from="1708077958189" duration="5027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
